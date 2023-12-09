@@ -1,2 +1,2 @@
 # temp_files
-Storage for ML HW3 datasets
+Storage for datasets used in ML assignments
